@@ -25,29 +25,29 @@ Development utilities:
 ## Setup
 
 ```
-npm install
+yarn install
 ```
 
 ## Lint
 
 ```
-npm run lint
+yarn lint
 ```
 
 ## Test
 
 ```
-npm run test
+yarn test
 ```
 
 ## Development
 
 ```
-npm run dev
+yarn dev
 ```
 
 ## Package Audit with snyk
 
 ```
-npm run audit
+yarn audit
 ```
